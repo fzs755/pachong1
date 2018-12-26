@@ -469,6 +469,7 @@ http://cf.mofcom.gov.cn/article/sqfb/201804/20180402731655.shtml中非首都班�
 http://cf.mofcom.gov.cn/article/sqfb/201810/20181002797363.shtml提醒近期暂勿前往中非共和国首都班吉以外地区
 http://cf.mofcom.gov.cn/article/sqfb/201810/20181002792549.shtml三名中国公民在中非共和国遇害
 http://cf.mofcom.gov.cn/article/sqfb/201804/20180402731655.shtml中非首都班吉近期安全形势的通报
+http://dubai.mofcom.gov.cn/article/sqfb/201812/20181202820314.shtml2018年迪拜项目授标下滑
 http://dubai.mofcom.gov.cn/article/sqfb/201812/20181202816618.shtml迪拜航空工程项目局设定马克图姆机场下层结构项目招标截止日期
 http://dubai.mofcom.gov.cn/article/sqfb/201812/20181202814673.shtml联邦铁路二期第一合同段招标程序已在进行中
 http://dubai.mofcom.gov.cn/article/sqfb/201812/20181202813264.shtml阿联酋财政部和阿布扎比财政局签署联邦铁路二期融资合同
@@ -486,6 +487,7 @@ http://dubai.mofcom.gov.cn/article/sqfb/201809/20180902791114.shtml承包商仍�
 http://dubai.mofcom.gov.cn/article/sqfb/201809/20180902790226.shtml迪拜Al-Khail路抬高项目仅收到一家承包商标书
 http://dubai.mofcom.gov.cn/article/sqfb/201809/20180902789875.shtml迪拜水电局延长Hatta水电站截标日期
 http://dubai.mofcom.gov.cn/article/sqfb/201809/20180902788733.shtml竞标商本周将进行沙迦Mina Khalid港口技术展示
+http://dubai.mofcom.gov.cn/article/sqfb/201812/20181202820314.shtml2018年迪拜项目授标下滑
 http://dubai.mofcom.gov.cn/article/sqfb/201812/20181202816618.shtml迪拜航空工程项目局设定马克图姆机场下层结构项目招标截止日期
 http://dubai.mofcom.gov.cn/article/sqfb/201812/20181202814673.shtml联邦铁路二期第一合同段招标程序已在进行中
 http://dubai.mofcom.gov.cn/article/sqfb/201812/20181202813264.shtml阿联酋财政部和阿布扎比财政局签署联邦铁路二期融资合同
@@ -500,7 +502,6 @@ http://dubai.mofcom.gov.cn/article/sqfb/201810/20181002795203.shtml两家咨询�
 http://dubai.mofcom.gov.cn/article/sqfb/201810/20181002793042.shtml迪拜计划于本月招标马克图姆机场建设工程项目
 http://dubai.mofcom.gov.cn/article/sqfb/201810/20181002792564.shtml迪拜地铁延长线项目咨询合同收到最低报价
 http://dubai.mofcom.gov.cn/article/sqfb/201809/20180902791114.shtml承包商仍在等待沙迦浮动液化天然气进口站项目进展
-http://dubai.mofcom.gov.cn/article/sqfb/201809/20180902790226.shtml迪拜Al-Khail路抬高项目仅收到一家承包商标书
 http://jedda.mofcom.gov.cn/article/sqfb/201811/20181102810112.shtml2018年中国（沙特）商品智造展开幕
 http://jedda.mofcom.gov.cn/article/sqfb/201808/20180802778187.shtml商投部发布新规简化企业注册手续
 http://jedda.mofcom.gov.cn/article/sqfb/201804/20180402732684.shtmlOPEC或已完成石油减产计划
@@ -701,3 +702,9 @@ http://toronto.mofcom.gov.cn/article/sqfb/201809/20180902789842.shtml驻多伦�
 http://toronto.mofcom.gov.cn/article/sqfb/201809/20180902784040.shtml第124届广交会将于 10月15日-11月4日在广州举行
 http://toronto.mofcom.gov.cn/article/sqfb/201809/20180902783563.shtml第24届中国义博会将于10月在中国义乌举行
 http://toronto.mofcom.gov.cn/article/sqfb/201809/20180902783562.shtml关于征集参加第五届世界互联网大会“世界互联网领先科技成果发布活动”相关成果的通知
+http://brisbane.mofcom.gov.cn//article/sqfb/201809/20180902786804.shtml欢迎参加第24届中国义乌国际小商品（标准）博览会
+http://brisbane.mofcom.gov.cn//article/sqfb/201809/20180902786725.shtml欢迎澳商参加第124届中国进出口商品交易会
+http://brisbane.mofcom.gov.cn//article/sqfb/201808/20180802773217.shtml首届中国国际进口博览会将于2018年11月在上海举办
+http://brisbane.mofcom.gov.cn//article/sqfb/201809/20180902786804.shtml欢迎参加第24届中国义乌国际小商品（标准）博览会
+http://brisbane.mofcom.gov.cn//article/sqfb/201809/20180902786725.shtml欢迎澳商参加第124届中国进出口商品交易会
+http://brisbane.mofcom.gov.cn//article/sqfb/201808/20180802773217.shtml首届中国国际进口博览会将于2018年11月在上海举办

@@ -1,8 +1,8 @@
 from bs4 import BeautifulSoup
 from urllib import request
 import sys
-import urllib
 import time
+import urllib
 user_headers={'User-Agent':'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.101 Safari/537.36}'}
 opener=urllib.request.build_opener()
 y=[]
