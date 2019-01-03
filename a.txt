@@ -1,3 +1,10 @@
+http://english.mofcom.gov.cn/
+http://french.mofcom.gov.cn/
+http://russian.mofcom.gov.cn/
+http://spanish.mofcom.gov.cn/
+http://german.mofcom.gov.cn/
+https://gzlynew.mofcom.gov.cn/mzsm/
+https://egov.mofcom.gov.cn/
 http://pk.mofcom.gov.cn
 http://karachi.mofcom.gov.cn
 http://tr.mofcom.gov.cn
@@ -227,8 +234,3 @@ http://vienna.mofcom.gov.cn
 http://wto.mofcom.gov.cn
 http://hk.mofcom.gov.cn
 http://mo.mofcom.gov.cn
-http://manage.mofcom.gov.cn
-/mofcom/sitemaps.shtml
-/mofcom/wzsm.shtml
-http://infostat.mofcom.gov.cn
-http://pv.mofcom.gov.cn

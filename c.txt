@@ -1,3 +1,8 @@
+http://english.mofcom.gov.cn//article/sqfb
+http://french.mofcom.gov.cn//article/sqfb
+http://russian.mofcom.gov.cn//article/sqfb
+http://spanish.mofcom.gov.cn//article/sqfb
+http://german.mofcom.gov.cn//article/sqfb
 http://pk.mofcom.gov.cn/article/sqfb
 http://karachi.mofcom.gov.cn/article/sqfb
 http://tr.mofcom.gov.cn/article/sqfb
@@ -160,6 +165,14 @@ http://brisbane.mofcom.gov.cn//article/sqfb
 http://haiti.mofcom.gov.cn//article/sqfb
 http://panama.mofcom.gov.cn//article/sqfb
 http://dm.mofcom.gov.cn//article/sqfb
+http://cr.mofcom.gov.cn//article/sqfb
+http://dom.mofcom.gov.cn//article/sqfb
+http://christchurch.mofcom.gov.cn//article/sqfb
+http://hamburg.mofcom.gov.cn/article/sqfb
+http://frankfurt.mofcom.gov.cn/article/sqfb
+http://ch.mofcom.gov.cn/article/sqfb
+http://se.mofcom.gov.cn/article/sqfb
+http://milan.mofcom.gov.cn/article/sqfb
 http://ee.mofcom.gov.cn/article/sqfb
 http://lt.mofcom.gov.cn/article/sqfb
 http://cz.mofcom.gov.cn/article/sqfb
@@ -218,5 +231,4 @@ http://genevese.mofcom.gov.cn/article/sqfb
 http://vienna.mofcom.gov.cn/article/sqfb
 http://wto.mofcom.gov.cn/article/sqfb
 http://hk.mofcom.gov.cn/article/sqfb
-http://mo.mofcom.gov.cn/article/sqfb
-http://manage.mofcom.gov.cn/article/sqfb
+http://gb.mofcom.gov.cn/article/l/

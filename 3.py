@@ -11,22 +11,27 @@ with open('d:\\nodejs\\pachong\\pachong1\\a.txt','r') as f:
   y=f.readlines()
   s='/article/sqfb'
   for i in range(0,len(y)-1):
-   y[i]=y[i].strip('\n')+s
-   x.append(y[i])
+    y[i]=y[i].strip('\n')+s
+    x.append(y[i])
 #print(x)
-f2 = open('c.txt','a+',encoding='utf-8')
+t=0
 for j in x:
+  t=t+1
+  if (t%100==0):
+    time.sleep(100)
   try:
     opener.open(j)
-    print(j+'没问题')
-    f2.write(j+'\n')
+    with open ('c.txt','a+', encoding='utf-8') as g2:
+      print(j+'没问题')
+      g2.write(j+'\n')
   except urllib.error.HTTPError:
-    print(j+'无法访问')
-    time.sleep(2)
+    with open ('g.txt','a+', encoding='utf-8') as g3:
+      print(j+'无法访问')
+      g3.write(j+'\n')
   except urllib.error.URLError:
-    print(j+'链接不存在')  
-    time.sleep(2)
-f2.close()
+    with open ('g.txt','a+', encoding='utf-8') as g4:
+      print(j+'链接不存在') 
+      g4.write(j+'\n')
 #with open('c.txt','a+') as f1:
   #for i in y[i]:
     #f1.write (y[i]+'\n')   
