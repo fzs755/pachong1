@@ -15,8 +15,8 @@ for x in y:
   html_doc = response.read()
   soup = BeautifulSoup(html_doc,"html.parser")  
   #print(response.getcode())
-  if (i%100==0):
-    time.sleep(100)
+  if (i%20==0):
+    time.sleep(60)
   if ('404') in response.geturl():
       with open ('f.txt','a+', encoding='utf-8') as g2:
           g2.write(x+'\n') 
