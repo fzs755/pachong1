@@ -1,90 +1,32 @@
-/forums/
-/forums/login
-/forums/c/selling-on-amazon
-/forums/c/selling-on-amazon/general-selling-questions
-/forums/t/us-fba-and-referral-fee-changes-coming-in-february-2019/434503
-/forums/t/us-fba-and-referral-fee-changes-coming-in-february-2019/434503?page=2
-/forums/t/us-fba-and-referral-fee-changes-coming-in-february-2019/434503?page=3
-/forums/t/us-fba-and-referral-fee-changes-coming-in-february-2019/434503?page=4
-/forums/t/us-fba-and-referral-fee-changes-coming-in-february-2019/434503?page=5
-/forums/t/us-fba-and-referral-fee-changes-coming-in-february-2019/434503?page=6
-/forums/t/info-why-was-my-account-suspended-immediately-after-registration/415889
-/forums/t/merging-sales-accounts/438175
-/forums/t/opening-up-a-3rd-seller-account/437987
-/forums/t/opening-up-a-3rd-seller-account/437987?page=2
-/forums/t/quick-explanation-of-how-buy-box-is-awarded/438138
-/forums/t/quick-explanation-of-how-buy-box-is-awarded/438138?page=2
-/forums/t/how-did-i-go-from-first-results-to-second-page/438173
-/forums/t/uptick-in-non-delivery-claims/437855
-/forums/t/uptick-in-non-delivery-claims/437855?page=2
-/forums/t/no-orders-for-a-few-days-this-is-not-normal/438139
-/forums/t/no-orders-for-a-few-days-this-is-not-normal/438139?page=2
-/forums/t/no-orders-for-a-few-days-this-is-not-normal/438139?page=3
-/forums/t/no-orders-for-a-few-days-this-is-not-normal/438139?page=4
-/forums/t/please-help-with-confusing-a-to-z/437482
-/forums/t/please-help-with-confusing-a-to-z/437482?page=2
-/forums/t/ups-innovation-question/438091
-/forums/t/linking-ups-account/438170
-/forums/t/usps-com-1st-class-mail-to-canada-unavailable/436599
-/forums/t/payment-amounts/437788
-/forums/t/2-appeals-and-youre-out-used-sold-as-new-question/438142
-/forums/t/2-appeals-and-youre-out-used-sold-as-new-question/438142?page=2
-/forums/t/looking-for-a-funny-picture/438163
-/forums/t/i-followed-the-paper-trail-my-inventory-was-received-but-is-still-inactive/438098
-/forums/t/dog-pages/405347
-/forums/t/dog-pages/405347?page=9
-/forums/t/dog-pages/405347?page=10
-/forums/t/dog-pages/405347?page=11
-/forums/t/dog-pages/405347?page=12
-/forums/t/dog-pages/405347?page=13
-/forums/t/dog-pages/405347?page=14
-/forums/t/dog-pages/405347?page=15
-/forums/t/dog-pages/405347?page=16
-/forums/t/dog-pages/405347?page=17
-/forums/t/dog-pages/405347?page=18
-/forums/t/dog-pages/405347?page=19
-/forums/t/dog-pages/405347?page=20
-/forums/t/any-one-know-what-the-amazon-policy-is-on-deleting-listings-and-creating-a-new-one/438135
-/forums/t/earn-then-get-out/414671
-/forums/t/earn-then-get-out/414671?page=3
-/forums/t/earn-then-get-out/414671?page=4
-/forums/t/earn-then-get-out/414671?page=5
-/forums/t/earn-then-get-out/414671?page=6
-/forums/t/earn-then-get-out/414671?page=7
-/forums/t/earn-then-get-out/414671?page=8
-/forums/t/earn-then-get-out/414671?page=9
-/forums/t/earn-then-get-out/414671?page=10
-/forums/t/earn-then-get-out/414671?page=11
-/forums/t/earn-then-get-out/414671?page=12
-/forums/t/earn-then-get-out/414671?page=13
-/forums/t/earn-then-get-out/414671?page=14
-/forums/t/how-to-deal-with-used-sold-as-new-complaints/430780
-/forums/t/how-to-deal-with-used-sold-as-new-complaints/430780?page=2
-/forums/t/how-to-deal-with-used-sold-as-new-complaints/430780?page=3
-/forums/t/used-sold-as-new-complaints-listings-blocked-appealed-in-30-minutes/434994
-/forums/t/pia-customer-and-an-unusual-return/438066
-/forums/t/pia-customer-and-an-unusual-return/438066?page=2
-/forums/t/pia-customer-and-an-unusual-return/438066?page=3
-/forums/t/pia-customer-and-an-unusual-return/438066?page=4
-/forums/t/pia-customer-and-an-unusual-return/438066?page=5
-/forums/t/pia-customer-and-an-unusual-return/438066?page=6
-/forums/t/pia-customer-and-an-unusual-return/438066?page=7
-/forums/t/pia-customer-and-an-unusual-return/438066?page=8
-/forums/t/protecting-account-from-infringement-counterfeit-claims/438104
-/forums/t/listing-programs/438147
-/forums/t/selling-privileges-removed-after-difficulties-from-postal-strike/436779
-/forums/t/why-dont-dog-pages-show-up-as-inactive/429173
-/forums/t/account-at-risk-of-deactivation/437746
-/forums/t/account-at-risk-of-deactivation/437746?page=2
-/forums/t/s-l-prime-sfp-expedited/438128
-/forums/t/s-l-prime-sfp-expedited/438128?page=2
-/forums/t/usps-employees-not-paid-now-affecting-shipping/438120
-/forums/t/can-sellers-call-amazon-customer-service-still-no-number-found/437730
-/forums/t/can-sellers-call-amazon-customer-service-still-no-number-found/437730?page=2
-/forums/c/selling-on-amazon/general-selling-questions/l/latest?no_subcategories=false&page=1
-/forums/
-/forums/categories
-/forums/guidelines
-/forums/tos
-/forums/privacy
-https://www.discourse.org
+Selling on Amazon
+General Selling Questions
+Privilege removed
+Reviews where are you?
+Currently unavailable
+Why my ads not display on computer, but can display on mobiles?
+Approved to sell in a category but cannot list
+Amazon refunding ridiculous amount for a $10.99 FBA return
+I'm so done with Amazon right now
+Missing Lighting Deal recommendation
+If someone writes "Do Not Include Any Paperwork" when they order a book
+I have a question for amazon book selling fee
+1099 Out yet?
+Amazon Collect & Remit In California - When?
+AZ claim after 125 days?
+Customer gave old address wants another?
+Slow selling on amazon
+How long does a buyer have to ask for a return
+Susan, can you help me solve this issue?
+Zoom feature for Product Main Image is not appearing/working
+My Product is Hijacked Co-Opted and SS helping the Hijacker - Any help would be appreciated
+She Really Thinks That I'm Going To Cave ...Ain't Happenin'
+Another keywords question - variations
+Unable to change the Default Return Address
+Negative Review -- Angry Customer
+DEAD Sales Like Never Before!
+Sales to inmates at correctional institutes
+Not Getting Paid
+Suspended account
+Approach in Social Media
+Definite AtoZ scam - how would you handle
+Missing items

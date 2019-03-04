@@ -1,14 +1,8 @@
-http://english.mofcom.gov.cn//article/sqfb
-http://french.mofcom.gov.cn//article/sqfb
-http://russian.mofcom.gov.cn//article/sqfb
-http://spanish.mofcom.gov.cn//article/sqfb
-http://german.mofcom.gov.cn//article/sqfb
 http://pk.mofcom.gov.cn/article/sqfb
 http://karachi.mofcom.gov.cn/article/sqfb
 http://tr.mofcom.gov.cn/article/sqfb
 http://istanbul.mofcom.gov.cn/article/sqfb
 http://izmir.mofcom.gov.cn/article/sqfb
-http://mm.mofcom.gov.cn/article/sqfb
 http://mandalay.mofcom.gov.cn/article/sqfb
 http://my.mofcom.gov.cn/article/sqfb
 http://kuching.mofcom.gov.cn/article/sqfb
@@ -20,7 +14,6 @@ http://sapporo.mofcom.gov.cn/article/sqfb
 http://niigata.mofcom.gov.cn/article/sqfb
 http://ph.mofcom.gov.cn/article/sqfb
 http://cebu.mofcom.gov.cn/article/sqfb
-http://id.mofcom.gov.cn//article/sqfb
 http://surabaya.mofcom.gov.cn//article/sqfb
 http://medan.mofcom.gov.cn//article/sqfb
 http://np.mofcom.gov.cn/article/sqfb
@@ -232,3 +225,4 @@ http://vienna.mofcom.gov.cn/article/sqfb
 http://wto.mofcom.gov.cn/article/sqfb
 http://hk.mofcom.gov.cn/article/sqfb
 http://gb.mofcom.gov.cn/article/l/
+http://mm.mofcom.gov.cn/article/jmxw/
